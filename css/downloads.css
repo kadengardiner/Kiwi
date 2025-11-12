@@ -1,0 +1,61 @@
+.download-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 30vh;
+    padding: 40px 40px 20px 40px;
+}
+
+.video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 30vh;
+    padding: 20px 40px 40px 40px;
+}
+
+.download-placeholder {
+    text-align: center;
+    padding: 60px 80px;
+    background: rgba(30, 5, 51, 0.7);
+    border: 2px solid rgba(138, 92, 246, 0.5);
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(106, 130, 251, 0.3);
+}
+
+.download-placeholder h2 {
+    color: #f2f2f2;
+    font-family: 'UnifrakturMaguntia', 'Old English Text MT', 'Blackletter', serif;
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.download-placeholder p {
+    color: #ffd36a;
+    font-size: 1.5em;
+    font-style: italic;
+}
+
+.video-placeholder {
+    text-align: center;
+    padding: 60px 80px;
+    background: rgba(30, 5, 51, 0.7);
+    border: 2px solid rgba(138, 92, 246, 0.5);
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(106, 130, 251, 0.3);
+}
+
+.video-placeholder h2 {
+    color: #f2f2f2;
+    font-family: 'UnifrakturMaguntia', 'Old English Text MT', 'Blackletter', serif;
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.video-placeholder p {
+    color: #ffd36a;
+    font-size: 1.5em;
+    font-style: italic;
+}
